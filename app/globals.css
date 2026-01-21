@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* =========================
+   BRAND TOKENS (Spore Trade)
+   ========================= */
+:root {
+  /* Colors */
+  --cream: #F8F5EF;
+  --forest: #1F4D36;
+  --sage: #6B8F71;
+  --soil: #6B4A2D;
+  --charcoal: #2B2B2B;
+  --muted: #6E6E6E;
+
+  /* Semantic mappings */
+  --background: var(--cream);
+  --foreground: var(--charcoal);
+}
+
+/* Tailwind v4 theme bridge */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  /* Fonts from next/font */
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+}
+
+/* =========================
+   BASE STYLES
+   ========================= */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
