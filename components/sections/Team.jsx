@@ -29,16 +29,20 @@ export default function Team() {
                         </div>
 
                         <h3 className="font-serif text-xl text-[var(--charcoal)]">
-                            Pardon
+                            Percy
                         </h3>
                         <p className="uppercase text-xs tracking-widest text-[var(--sage)] mb-4">
-                            Founder & CEO
+                            HEAD OF GROWER RELATIONS & SOURCING
                         </p>
 
                         <p className="text-[var(--muted)] text-sm leading-relaxed">
-                            Former agricultural economist who left consulting to build the
-                            food system she believed in. Grows tomatoes on her balcony and
-                            has never met a farmer she didn’t like.
+                            The force behind our produce selection,
+                            our Head of Grower Relations builds trusted
+                            partnerships with domestic, regional, and international growers.
+                            Guided by the belief that “the best flavors begin with ethical and sustainable farming,” 
+                            they ensure peak ripeness, fair pricing, and seasonal integrity.
+                            By strengthening supply chains and championing sustainable practices,
+                            they help us cultivate impact — one trade at a time.
                         </p>
                     </div>
 
@@ -54,16 +58,19 @@ export default function Team() {
                         </div>
 
                         <h3 className="font-serif text-xl text-[var(--charcoal)]">
-                            Percy
+                            Pardon
                         </h3>
                         <p className="uppercase text-xs tracking-widest text-[var(--sage)] mb-4">
-                            Head of Operations
+                            DIRECTOR OF LOGISTICS & DISTRIBUTION
                         </p>
 
                         <p className="text-[var(--muted)] text-sm leading-relaxed">
-                            Logistics nerd with a heart for sustainability. Previously
-                            managed supply chains for national grocers — now focused on
-                            helping local produce travel fewer miles, faster.
+                            The architect of our farm-to-shelf journey, our Director of Logistics 
+                            ensures every harvest arrives fresh, vibrant, and on time. From cold 
+                            chain systems to route optimization, they manage the precision behind
+                            our distribution network.
+                            For them, seamless logistics are the quiet promise behind every crisp 
+                            leaf and perfect peach.
                         </p>
                     </div>
 
@@ -82,13 +89,15 @@ export default function Team() {
                             Laura
                         </h3>
                         <p className="uppercase text-xs tracking-widest text-[var(--sage)] mb-4">
-                            Community Partnerships
+                            RETAIL EXPERIENCE & COMMUNITY MANAGER
                         </p>
 
                         <p className="text-[var(--muted)] text-sm leading-relaxed">
-                            The connector. Spent years organizing farmers’ markets before
-                            joining Spore. Believes every handshake is the start of something
-                            meaningful.
+                           The heart of our retail mission, our Retail Experience & Community
+                            Manager transforms our stores into welcoming hubs of fresh food and
+                            connection. With a background in culinary arts and hospitality,
+                            they inspire customers through engaging displays, events, and expert guidance.
+                            They believe every product tells a story — and every customer becomes part of it.
                         </p>
                     </div>
                 </div>
@@ -96,3 +105,4 @@ export default function Team() {
         </section>
     )
 }
+
