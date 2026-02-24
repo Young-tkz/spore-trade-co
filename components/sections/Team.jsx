@@ -40,7 +40,7 @@ export default function Team() {
                             our Head of Grower Relations builds trusted
                             partnerships with domestic, regional, and international growers.
                             Guided by the belief that “the best flavors begin with ethical and sustainable farming,” 
-                            they ensure peak ripeness, fair pricing, and seasonal integrity.
+                            they ensure peak ripeness, fair pricing, and seasonal integrity.<br/>
                             By strengthening supply chains and championing sustainable practices,
                             they help us cultivate impact — one trade at a time.
                         </p>
@@ -105,4 +105,5 @@ export default function Team() {
         </section>
     )
 }
+
 
