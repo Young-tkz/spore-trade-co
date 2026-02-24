@@ -30,7 +30,7 @@ export default function Contact() {
                         </a>
 
                         <a
-                            href="https://instagram.com/"
+                            href="https://www.instagram.com/freshpickinc?igsh=bmNmbDV2N2swNjNo"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-[var(--forest)] hover:opacity-80 transition"
@@ -39,7 +39,7 @@ export default function Contact() {
                         </a>
 
                         <a
-                            href="https://wa.me/+263713938485"
+                            href="https://wa.me/+263715007215"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-[var(--forest)] hover:opacity-80 transition"
@@ -138,3 +138,4 @@ export default function Contact() {
         </section>
     )
 }
+
