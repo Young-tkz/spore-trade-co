@@ -39,7 +39,7 @@ export default function Contact() {
                         </a>
 
                         <a
-                            href="https://wa.me/+263715007215"
+                            href="https://wa.me/+263785963872"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-[var(--forest)] hover:opacity-80 transition"
@@ -138,4 +138,5 @@ export default function Contact() {
         </section>
     )
 }
+
 
